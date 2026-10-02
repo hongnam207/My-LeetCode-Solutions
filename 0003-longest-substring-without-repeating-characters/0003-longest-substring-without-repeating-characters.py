@@ -1,6 +1,6 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        arr = [False] * 10000
+        arr = [False] * 130
         ans = 0
         r = -1
         for l in range (0 , len(s)):
