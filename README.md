@@ -7,6 +7,7 @@ Any questions? DM me at https://www.facebook.com/saturinaa/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saturina0611/My-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/saturina0611/My-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/saturina0611/My-LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 ## Dynamic Programming
@@ -21,4 +22,12 @@ Any questions? DM me at https://www.facebook.com/saturinaa/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saturina0611/My-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saturina0611/My-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saturina0611/My-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
